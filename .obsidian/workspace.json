@@ -11,11 +11,9 @@
             "id": "613b6e536b603078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Backend Code Docs/ir_codegen.rs.md",
-                "mode": "source",
-                "source": false
+                "file": "General/Basic Compiler Diagram.pdf"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Code Docs/ir_codegen.rs.md",
+                "file": "General/Basic Compiler Diagram.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Code Docs/ir_codegen.rs.md",
+                "file": "General/Basic Compiler Diagram.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Code Docs/ir_codegen.rs.md"
+                "file": "General/Basic Compiler Diagram.pdf"
               }
             }
           }
@@ -158,17 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613b6e536b603078",
+  "active": "5c28aedbf5b64ba5",
   "lastOpenFiles": [
-    "Backend Code Docs/execution_engine.rs.md",
-    "Frontend Code Docs/sem_analysis.rs.md",
-    "Frontend Code Docs/parser.rs.md",
-    "Backend Code Docs/ir_codegen.rs.md",
-    "Frontend Code Docs/lexer.rs.md",
     "General/Custom Language.md",
     "General/Detailed Compiler Diagram.pdf",
-    "General/Optimize.md",
     "General/Basic Compiler Diagram.pdf",
+    "Backend Code Docs/object_codegen.rs.md",
+    "Backend Code Docs/ir_codegen.rs.md",
+    "Backend Code Docs/execution_engine.rs.md",
+    "Frontend Code Docs/lexer.rs.md",
+    "General/Optimize.md",
+    "Frontend Code Docs/parser.rs.md",
+    "Frontend Code Docs/sem_analysis.rs.md",
+    "General/Ideas for Future Work.md",
+    "General/Untitled.md",
+    "Untitled.md",
     "General",
     "Welcome.md",
     "Backend Code Docs",

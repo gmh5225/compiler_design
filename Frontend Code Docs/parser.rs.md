@@ -16,16 +16,4 @@ pub fn parse(input: Vec<Token>) -> Result<AST, Vec<ErrorType>>
 use crate::frontend::syntax::parser::Parser;
 ```
 
-### Pseudocode
-
-1. **Initialization**: `Parser::new` initializes the `Parser` with a reference to a vector of tokens. The `current` index is set to 0 to start parsing from the beginning of the token list.
-
-2. **Parsing Process**: `Parser::parse` is the public method that drives the parsing process. It creates a `Parser` instance and iterates through the tokens, analyzing each one and constructing the AST.
-
-3. **Top-Level Parsing**: The `parse_top_level` method is used for parsing top-level constructs, such as function declarations, structs, enums, imports, etc. It checks the current token and decides how to parse it (e.g., as a function if the token is `Token::FUNCTION`).
-
-4. **Error Handling**: Errors are captured during the parsing process. If an unexpected token is encountered or a syntactic structure is incorrect, an `ErrorType` is generated and added to a vector of errors. 
-
-5. **AST Construction**: As the parser recognizes different constructs, it creates corresponding AST nodes, which are then added to the root ASTNode in a bottom up fashion.
-
 ### Reading

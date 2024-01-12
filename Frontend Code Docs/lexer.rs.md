@@ -17,14 +17,5 @@ pub fn lex(input: &str) -> Result<Vec<Token>, Vec<ErrorType>>
 use crate::frontend::syntax::lexer::Lexer;
 ```
 
-### Pseudocode
-
-1. **Initialization**: `Lexer::new` initializes the `Lexer` with the input string converted into a vector of characters. The current position is set to 0, and the current character is initially set to a placeholder representing the end of file (EOF). The (EOF) token will be appended once to the output, after reading each token.
-
-2. **Tokenization Process**: `Lexer::lex` is the public method that tokenizes the entire input string. It repeatedly calls `next_token` to process the input and accumulate tokens until the end of the input is reached.
-
-3. **Handling Individual Tokens**: The `next_token` method skips whitespace and then, based on the current character, determines the appropriate token. It handles different categories like operators, brackets, identifiers, integers, etc. 
-
-4. **Error Handling**: If an unrecognized character is encountered, an error token is generated, indicating an unrecognized token. It is then added to the final output, which will now be a vector of errors, and not a vector of tokens.
 ### Reading
 https://ieeexplore.ieee.org/document/7755127

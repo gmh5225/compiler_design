@@ -27,7 +27,7 @@ pub fn foo(a: int, b: bool, c: str): bool {
 	}
 	elif (a == 1) {
 		while (true) {
-			break;
+			break; 
 		}
 	}
 	else {

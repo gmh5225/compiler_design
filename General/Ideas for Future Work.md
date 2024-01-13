@@ -14,7 +14,7 @@ inherit foo {
 	}
 }
 
-#[traits{pass-by: ownership}]
+[#traits{pass-by: ownership}]
 struct bar inherits[foo] {}
 
 fn foobar(): String {
@@ -35,4 +35,34 @@ struct foo {
 }
 ```
 
+```rust
+/// enums that can have variants of different types
+enum foo {
+	bar: String,
+	foobar: int,
+}
+
+// can be assigned like this:
+let a: foo = foo::bar("hello");
+let b: foo = foo::foobar(123);
+```
+
+```rust
+/// recursion block for simple recursive patterns
+
+fn factorial(n: int): int {
+	let result: int = 1;
+	recurse {
+		result *= n
+		n -= 1
+	} until {
+		n <= 1
+	}
+	return result
+}
+```
 - Store functions in variables, passed as arguments, returned form other functions
+- VSCode extension for syntax highlighting
+- Standard library
+- Do multithreading on the lexer/parsing steps
+	- Do lexing/parsing for a chunk of the source file on different threads, then combine different threads outputs into a single AST

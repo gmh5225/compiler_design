@@ -11,9 +11,11 @@
             "id": "613b6e536b603078",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "General/Basic Compiler Diagram.pdf"
+                "file": "General/Ideas for Future Work.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Basic Compiler Diagram.pdf",
+                "file": "General/Ideas for Future Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Basic Compiler Diagram.pdf",
+                "file": "General/Ideas for Future Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Basic Compiler Diagram.pdf"
+                "file": "General/Ideas for Future Work.md"
               }
             }
           }
@@ -156,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c28aedbf5b64ba5",
+  "active": "613b6e536b603078",
   "lastOpenFiles": [
     "General/Custom Language.md",
-    "General/Detailed Compiler Diagram.pdf",
     "General/Basic Compiler Diagram.pdf",
+    "General/Detailed Compiler Diagram.pdf",
     "Backend Code Docs/object_codegen.rs.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/execution_engine.rs.md",

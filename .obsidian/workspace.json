@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Ideas for Future Work.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Ideas for Future Work.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Ideas for Future Work.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Ideas for Future Work.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,18 +160,20 @@
   },
   "active": "613b6e536b603078",
   "lastOpenFiles": [
+    "General/Optimize.md",
+    "General/Build File Ideas.md",
+    "README.md",
+    "General/Name ideas.md",
     "General/Custom Language.md",
+    "General/Ideas for Future Work.md",
     "General/Basic Compiler Diagram.pdf",
     "General/Detailed Compiler Diagram.pdf",
     "Backend Code Docs/object_codegen.rs.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/execution_engine.rs.md",
     "Frontend Code Docs/lexer.rs.md",
-    "General/Optimize.md",
     "Frontend Code Docs/parser.rs.md",
     "Frontend Code Docs/sem_analysis.rs.md",
-    "General/Ideas for Future Work.md",
-    "General/Untitled.md",
     "Untitled.md",
     "General",
     "Welcome.md",

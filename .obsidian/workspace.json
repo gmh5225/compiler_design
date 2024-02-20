@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Tasks/IntsAndFloats.md",
+                "file": "Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Tasks/IntsAndFloats.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Tasks/IntsAndFloats.md",
+                "file": "Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Tasks/IntsAndFloats.md"
+                "file": "Goals.md"
               }
             }
           }
@@ -158,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613b6e536b603078",
+  "active": "5c28aedbf5b64ba5",
   "lastOpenFiles": [
+    "TODO/Key.md",
     "TODO/Task Template.md",
+    "Goals.md",
     "TODO/Tasks/IntsAndFloats.md",
     "README.md",
-    "TODO/Goals.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/execution_engine.rs.md",
     "Backend Code Docs/object_codegen.rs.md",
@@ -176,7 +177,6 @@
     "General/High Level Ideas of Language.md",
     "General/Language Syntax.md",
     "General/Optimize.md",
-    "TODO/Key.md",
     "TODO/Tasks",
     "TODO",
     "General/Name ideas.md",

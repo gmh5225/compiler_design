@@ -10,4 +10,7 @@
 		- *Task ID:* TaskName-1-000
 	- Example 2:
 	- *Your name* is claiming all subtasks.
+- *Discussion*
+	- This is a discussion area for us to talk about this issue. Please use comments of the form:
+	- *Your Name:* Something or other about this task
 	

@@ -7,6 +7,7 @@
 	- `000` 
 		- *Description:* A brief description of the task
 		- *Developer:* The name of the person who has claimed the task, else none
+		- *Task ID:* TaskName-1-000
 	- Example 2:
 	- *Your name* is claiming all subtasks.
 	

@@ -22,13 +22,9 @@ function_overloading = "";  /* default = allow
                               others: disallow
                             */
                             
-type_inference = "";  /* default = strong inference
-                        others: weak, none
+type_inference = "";  /* default = none
+                        others: weak, strong
                       */
-
-literals_interpretation = "";  /* default = standard
-                                 others: customizable, raw
-                               */
 
 default_access_modifier = "";  /* default = private
                                  others: public, protected

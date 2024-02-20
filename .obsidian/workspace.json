@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Key.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intsandfloat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3f9836f54c1dc7d1",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Key.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Key.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Key.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,24 +160,27 @@
   },
   "active": "613b6e536b603078",
   "lastOpenFiles": [
-    "TODO/Roadmap.md",
-    "TODO/Key.md",
-    "General/Optimize.md",
-    "TODO",
-    "README.md",
-    "General/Language Syntax.md",
-    "General/Ideas for Future Work.md",
-    "General/High Level Ideas of Language.md",
-    "General/Build File Ideas.md",
-    "General/Basic Compiler Diagram.pdf",
+    "TODO/Goals.md",
     "Backend Code Docs/ir_codegen.rs.md",
-    "General/Name ideas.md",
-    "General/Detailed Compiler Diagram.pdf",
-    "Backend Code Docs/object_codegen.rs.md",
     "Backend Code Docs/execution_engine.rs.md",
+    "Backend Code Docs/object_codegen.rs.md",
     "Frontend Code Docs/lexer.rs.md",
     "Frontend Code Docs/parser.rs.md",
     "Frontend Code Docs/sem_analysis.rs.md",
+    "General/Basic Compiler Diagram.pdf",
+    "General/Build File Ideas.md",
+    "General/Ideas for Future Work.md",
+    "General/High Level Ideas of Language.md",
+    "General/Language Syntax.md",
+    "General/Optimize.md",
+    "TODO/Tasks/IntsAndFloats.md",
+    "TODO/Key.md",
+    "TODO/Task Template.md",
+    "TODO/Tasks",
+    "README.md",
+    "TODO",
+    "General/Name ideas.md",
+    "General/Detailed Compiler Diagram.pdf",
     "Untitled.md",
     "General",
     "Welcome.md",

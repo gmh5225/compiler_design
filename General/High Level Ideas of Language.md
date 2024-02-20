@@ -11,16 +11,12 @@
 	- while
 	- for
 	- do-while
-- Ideas
-	- Memory safety without garbage collection
-	- Null safety
-	- Variables immutable by default, unless specified as mutable
-	- Type inference only for primitives?
+- Idea
 	- Bake as little into the compiler as possible, let user decide their own usage
 
 ### Samples
 ```rust
-pub fn foo(a: int, b: bool, c: str): bool {
+pub fn foo(a: i64, b: bool, c: str): bool {
 	if (a == 0) {
 		bar();
 		return false;

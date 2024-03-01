@@ -1,7 +1,11 @@
+
+warnings = /* default: on
+			others: off
+			/
+#FutureIdeas
 pass-by = "";  /* default = ownership
                 others: reference, name, value, need
-              */
-
+              /
 mutability = "";  /* default = by_assignment
                     others: all, none
                   */
@@ -15,7 +19,7 @@ error_handling = "";  /* default = strict
                       */
 
 memory_management = "";  /* default = none
-                           others: reference counting, automatic
+                           others: automatic
                          */
 
 function_overloading = "";  /* default = allow

@@ -1,0 +1,2 @@
+- Compile LLVM IR to object code
+- Create starter code for future classes

@@ -14,4 +14,7 @@ pub fn generate_ir(ast: &AST) -> LLVMModuleRef
 use crate::backend::codegen::ir_codegen::IRGenerator;
 ```
 
+### Invariants
+
+
 ### Reading

@@ -1,4 +1,4 @@
-
+#FutureIdeas
 ```rust
 /// Structs having custom pass-by traits
 [#traits{pass-by: value}]
@@ -61,8 +61,4 @@ fn factorial(n: int): int {
 	return result
 }
 ```
-- Store functions in variables, passed as arguments, returned form other functions
 - VSCode extension for syntax highlighting
-- Standard library
-- Do multithreading on the lexer/parsing steps
-	- Do lexing/parsing for a chunk of the source file on different threads, then combine different threads outputs into a single AST

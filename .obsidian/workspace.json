@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16f4e7063885be9e",
+        "id": "2b01279dfc214785",
         "type": "tabs",
         "children": [
           {
-            "id": "613b6e536b603078",
+            "id": "c5cd1186411ef8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0af8e527b0998cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend Code Docs/sem_analysis.rs.md",
+                "file": "General/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intsandfloat",
+                "query": "tag:#FutureIdeas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals.md",
+                "file": "General/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals.md",
+                "file": "General/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals.md"
+                "file": "General/Resources.md"
               }
             }
           }
@@ -158,25 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c28aedbf5b64ba5",
+  "active": "c5cd1186411ef8f8",
   "lastOpenFiles": [
-    "TODO/Key.md",
-    "TODO/Task Template.md",
-    "Goals.md",
-    "TODO/Tasks/IntsAndFloats.md",
-    "README.md",
-    "Backend Code Docs/ir_codegen.rs.md",
-    "Backend Code Docs/execution_engine.rs.md",
-    "Backend Code Docs/object_codegen.rs.md",
-    "Frontend Code Docs/lexer.rs.md",
-    "Frontend Code Docs/parser.rs.md",
-    "Frontend Code Docs/sem_analysis.rs.md",
-    "General/Basic Compiler Diagram.pdf",
-    "General/Build File Ideas.md",
+    "General/Optimization Ideas.md",
+    "General/Language Syntax.md",
     "General/Ideas for Future Work.md",
     "General/High Level Ideas of Language.md",
-    "General/Language Syntax.md",
-    "General/Optimize.md",
+    "General/Build File Ideas.md",
+    "General/Basic Compiler Diagram.pdf",
+    "Spring 2024 Requirements.md",
+    "README.md",
+    "Backend Code Docs/ir_codegen.rs.md",
+    "Backend Code Docs/object_codegen.rs.md",
+    "Backend Code Docs/execution_engine.rs.md",
+    "Frontend Code Docs/sem_analysis.rs.md",
+    "Frontend Code Docs/lexer.rs.md",
+    "Frontend Code Docs/parser.rs.md",
+    "General/Resources.md",
+    "2024-02-29.md",
+    "TODO/Key.md",
+    "TODO/Task Template.md",
+    "TODO/Tasks/IntsAndFloats.md",
     "TODO/Tasks",
     "TODO",
     "General/Name ideas.md",

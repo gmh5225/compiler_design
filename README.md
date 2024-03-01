@@ -1,2 +1,3 @@
-Open this with Obsidian. 
-https://obsidian.md/download
+#CompilerDesignS2024
+- Independent Study sponsored by Aaron Cass
+- Students: John Daly, Thomas Breimer, Kevin Welch, Caleb L'Italien

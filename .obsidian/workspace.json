@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Resources.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Resources.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Resources.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Resources.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "c5cd1186411ef8f8",
   "lastOpenFiles": [
+    "Spring 2024 Requirements.md",
+    "General/Resources.md",
     "General/Optimization Ideas.md",
     "General/Language Syntax.md",
     "General/Ideas for Future Work.md",
     "General/High Level Ideas of Language.md",
     "General/Build File Ideas.md",
     "General/Basic Compiler Diagram.pdf",
-    "Spring 2024 Requirements.md",
     "README.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/object_codegen.rs.md",
@@ -162,7 +163,6 @@
     "Frontend Code Docs/sem_analysis.rs.md",
     "Frontend Code Docs/lexer.rs.md",
     "Frontend Code Docs/parser.rs.md",
-    "General/Resources.md",
     "2024-02-29.md",
     "TODO/Key.md",
     "TODO/Task Template.md",

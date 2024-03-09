@@ -3,19 +3,21 @@
 	git clone git@github.com:UnionCompilerDesign/docs.git
 
 1. WhenToMeet
-	- Make sure you've voted
+	- Spring break meeting: https://www.when2meet.com/?24065111-3uN8s
+	- Weekly meetings: https://www.when2meet.com/?24065144-nG1Q5
 	
 1. Obsidian
+	- Open compiler_design with Obsidian
      https://obsidian.md/download
      
-3. Repo
+3. Code repo
 	git clone git@github.com:UnionCompilerDesign/compiler_core.git
 	
 4. Rust/Cargo
-	setup/install_rust.py
+	run setup/install_rust.py
 	
 5.  LLVM 
-	setup/install_llvm.py
+	run setup/install_llvm.py
 	- If you install on your own, make sure to use LLVM 17
 	
 6. Builder
@@ -24,7 +26,9 @@
 7. Test code repo
 	cargo build; cargo test; cd reg_tests/basic_test; charge compile main.uc --emit-ir
 	
-8. Rust docs (Important: )
+8. Rust docs 
+	- Try to work through the folling chapters:
+		2-10, 13, 15, 18, 20
 	https://doc.rust-lang.org/book/
 	
 9. Textbook

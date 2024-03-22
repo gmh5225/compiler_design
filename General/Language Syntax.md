@@ -1,3 +1,23 @@
-- Here we'll finalize the syntax of our languag
+- Variable declarations (`let`, `const`, `mut`)
+- Data types (`usize`,`int`, `string`,`float`, `bool`, `Array<T>`, `Object`)
+- Function declaration (`fn`, `->`)
+- Enum declaration(`enum`)
+- Struct declaration(`struct`)
+- Block expression(`{}`)
+- Control flow keywords (`if`, `elif`,`else`, `for`, `while`, `match`)
+- Access modifiers (`pri`, `pub)**
+- Class and object-oriented programming (`class`, `init`, `self`)
+- Comments (`//` for single line, `/* */` for multi-line)
+- Operators: 
+	- Mathematical (`+`, `-`, `*`, `/`)
+	- Logical (`&&`, `||`, `!`)
+	- Comparison (`==`, `!=`, `<`, `>`, `<=`, `>=`)
+	- Bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`)
+- Error handling(`try`, `catch` `finally`,`Result<T, E>` , `Option<T>`)
+- Concurrency model: (`async`, `await`)
+- Module system: (`mod` , `use`)
+- Decorators and metadata(TBD)
+- Type inference
+- Generics: (`<T>`)
 
 Last Edited: 2024-02-29 22:35:40 -0500

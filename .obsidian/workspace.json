@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Requirements.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Requirements.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Requirements.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Requirements.md"
+                "file": "Frontend Code Docs/lexer_core.rs.md"
               }
             }
           }
@@ -160,21 +160,26 @@
   },
   "active": "c5cd1186411ef8f8",
   "lastOpenFiles": [
-    "README.md",
-    "Backend Code Docs/execution_engine.rs.md",
+    "Frontend Code Docs/ast_struct.rs.md",
+    "Frontend Code Docs/lexer_core.rs.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/object_codegen.rs.md",
-    "Frontend Code Docs/lexer.rs.md",
-    "Frontend Code Docs/parser.rs.md",
-    "Frontend Code Docs/sem_analysis.rs.md",
-    "General/Build File Ideas.md",
-    "General/High Level Ideas of Language.md",
-    "General/Ideas for Future Work.md",
-    "General/Optimization Ideas.md",
-    "Spring 2024 Requirements.md",
-    "General/Basic Compiler Diagram.pdf",
+    "Backend Code Docs/execution_engine.rs.md",
     "General/Language Syntax.md",
+    "General/Optimization Ideas.md",
+    "General/Extra Readings.md",
+    "General/Docs Template.md",
+    "General/Build File.md",
+    "Frontend Code Docs/rules_config.rs.md",
+    "Frontend Code Docs/parser_core.rs.md",
+    "Frontend Code Docs/sem_analysis_core.rs.md",
+    "Frontend Code Docs/symbol_table_core.rs.md",
+    "General/Basic Compiler Diagram.pdf",
+    "General/Ideas for Future Work.md",
     "General/Resources.md",
+    "README.md",
+    "Spring 2024 Requirements.md",
+    "General/High Level Ideas of Language.md",
     "2024-02-29.md",
     "TODO/Key.md",
     "TODO/Task Template.md",
@@ -185,7 +190,6 @@
     "General/Detailed Compiler Diagram.pdf",
     "Untitled.md",
     "General",
-    "Welcome.md",
     "Backend Code Docs",
     "Frontend Code Docs"
   ]

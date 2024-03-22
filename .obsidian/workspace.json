@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Extra Readings.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Extra Readings.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Extra Readings.md",
+                "file": "Frontend Code Docs/lexer_core.rs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Extra Readings.md"
+                "file": "Frontend Code Docs/lexer_core.rs.md"
               }
             }
           }
@@ -160,21 +160,21 @@
   },
   "active": "c5cd1186411ef8f8",
   "lastOpenFiles": [
-    "General/Resources.md",
+    "Frontend Code Docs/parser_core.rs.md",
+    "Frontend Code Docs/rules_config.rs.md",
+    "Frontend Code Docs/lexer_core.rs.md",
+    "Frontend Code Docs/sem_analysis_core.rs.md",
+    "Frontend Code Docs/symbol_table_core.rs.md",
+    "General/Build File.md",
+    "General/Optimization Ideas.md",
     "General/Language Syntax.md",
     "General/Extra Readings.md",
+    "General/Resources.md",
     "General/Docs Template.md",
-    "General/Build File.md",
     "Backend Code Docs/execution_engine.rs.md",
     "Backend Code Docs/ir_codegen.rs.md",
     "Backend Code Docs/object_codegen.rs.md",
-    "Frontend Code Docs/symbol_table_core.rs.md",
-    "Frontend Code Docs/sem_analysis_core.rs.md",
-    "Frontend Code Docs/lexer_core.rs.md",
-    "Frontend Code Docs/parser_core.rs.md",
-    "Frontend Code Docs/rules_config.rs.md",
     "Frontend Code Docs/ast_struct.rs.md",
-    "General/Optimization Ideas.md",
     "General/Basic Compiler Diagram.pdf",
     "General/Ideas for Future Work.md",
     "README.md",

@@ -27,21 +27,28 @@
 	cargo build; cargo test; cd reg_tests/basic_test; charge compile main.uc --emit-ir
 	
 8. Rust docs 
-	- Try to work through the folling chapters:
+	- Try to work through the following chapters:
 		2-10, 13, 15, 18, 20
 	https://doc.rust-lang.org/book/
 	
-9. Textbook
+9. Textbooks
 	Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jefrey D. Ullman. Compilers: Principles, Techniques, & Tools. Pearson Education, second edition, 2007
+	
+	John Cocke and J.T. Schwartz, Programming Languages and their Compilers, Preliminary Notes, 2nd revised edition, Courant Institute, New York, 1970, pages 306-524
+	https://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf
+	
 
 #Other
 - Stanford Seminar
 	https://www.youtube.com/watch?v=O5vzLKg7y-k&ab_channel=StanfordOnline
 	
-- Rustlings problems
+- Rustlings problem sets
 	https://github.com/rust-lang/rustlings
 	
 - Linker
 	https://linker.iecc.com/
+
+- History of compiler constructions
+	https://en.wikipedia.org/wiki/History_of_compiler_construction
 
 Last Edited: 2024-03-09 15:26:51 -0500

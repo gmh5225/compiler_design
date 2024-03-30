@@ -1,0 +1,3 @@
+- What have I worked on this week?
+- What do I plan on working on?
+- What roadblocks have I hit?

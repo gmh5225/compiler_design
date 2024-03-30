@@ -22,4 +22,4 @@ use crate::frontend::symbol_table::symbol_table_struct::SymbolTableStack;
 
 ### Reading
 Dragon book 85-91
-Last Edited: 2024-03-21 20:15:39 -0400
+Last Edited: 2024-03-21 20:50:15 -0400

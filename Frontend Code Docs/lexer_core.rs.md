@@ -23,4 +23,4 @@ use crate::frontend::lexer::lexer_core::Lexer;
 ### Reading
 Dragon book 42-60, 128-134
 
-Last Edited: 2024-03-21 20:15:39 -0400
+Last Edited: 2024-03-21 20:50:15 -0400

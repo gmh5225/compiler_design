@@ -28,4 +28,4 @@ use crate::frontend::analysis::sem_analysis::SemAnalysis;
 ### Reading
 Dragon book 109-113
 
-Last Edited: 2024-03-21 20:15:39 -0400
+Last Edited: 2024-03-30 14:39:41 -0400

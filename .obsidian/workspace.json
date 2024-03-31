@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08c880b4a08e95ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Compiler Design 2024.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Open/Opaque SyntaxElement.md",
+                "file": "Compiler Design 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Open/Opaque SyntaxElement.md",
+                "file": "Compiler Design 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Open/Opaque SyntaxElement.md"
+                "file": "Compiler Design 2024.pdf"
               }
             }
           }
@@ -159,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20a4ddc7d2264711",
+  "active": "08c880b4a08e95ec",
   "lastOpenFiles": [
-    "Projects/Open/General/LLVM Library General.md",
+    "Untitled.md",
+    "Compiler Design 2024.pdf",
     "Projects/Open/General/Lexer General.md",
     "Projects/Open/General/IR General.md",
     "Projects/Open/General/Errors and Warnings General.md",
     "Projects/Open/Opaque SyntaxElement.md",
-    "Projects/Week 9 Deadline/Documentation.md",
-    "Projects/Week 9 Deadline/Unit Testing.md",
-    "Projects/Open/Linker.md",
-    "Projects/Open/Directory.md",
-    "Projects/Open/Build File.md",
-    "Projects/Open/AST Optimizer.md",
-    "Projects/Open/AST Mutator.md",
-    "Projects/Open/General/SymbolTableStack General.md",
-    "Projects/Open/General/SemAnalysis General.md",
-    "Projects/Open/General/Parser General.md",
-    "Issues to open.md",
     "Projects/Proposed Projects.md",
     "Projects/Week 11 Deadline/Starter Code.md",
     "Projects/Week 11 Deadline/Regression Testing.md",
     "Projects/Week 11 Deadline/LLVM Safety.md",
-    "General/Templates/Project Template.md",
-    "General/Templates/General Project Template.md",
+    "Projects/Week 9 Deadline/Unit Testing.md",
+    "Projects/Week 9 Deadline/Documentation.md",
+    "Projects/Open/Build File.md",
+    "Projects/Open/AST Optimizer.md",
+    "Projects/Open/AST Mutator.md",
+    "Frontend Code Docs/parser_core.rs.md",
+    "Frontend Code Docs/lexer_core.rs.md",
+    "General/Resources.md",
     "General/Scrum Questions.md",
+    "General/Scheduling.md",
+    "General/Language Syntax.md",
+    "General/Language Idea.md",
     "General/Extra Readings.md",
+    "General/Templates/Project Template.md",
     "General/Templates/Issue Template.md",
-    "General/Templates/Docs Template.md",
+    "README.md",
     "Projects/Week 9 Deadline",
     "Projects/Week 11 Deadline",
     "Projects/Open/General",
@@ -195,7 +205,6 @@
     "Projects/Open",
     "Open Projects/Breaki",
     "Open Projects/Core Capabilities",
-    "General/Templates",
-    "Projects"
+    "General/Templates"
   ]
 }

@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Compiler Design 2024.pdf"
+                "file": "Syllabus.pdf"
               }
             }
           }
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "363e6c55d445a722",
+            "id": "5b177be7cd25c095",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiler Design 2024.pdf",
+                "file": "Syllabus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiler Design 2024.pdf",
+                "file": "Syllabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiler Design 2024.pdf"
+                "file": "Syllabus.pdf"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "08c880b4a08e95ec",
   "lastOpenFiles": [
-    "Untitled.md",
+    "General/Templates/Issue Template.md",
     "Compiler Design 2024.pdf",
+    "Untitled.md",
     "Projects/Open/General/Lexer General.md",
     "Projects/Open/General/IR General.md",
     "Projects/Open/General/Errors and Warnings General.md",
@@ -195,7 +196,6 @@
     "General/Language Idea.md",
     "General/Extra Readings.md",
     "General/Templates/Project Template.md",
-    "General/Templates/Issue Template.md",
     "README.md",
     "Projects/Week 9 Deadline",
     "Projects/Week 11 Deadline",
